@@ -1,0 +1,6 @@
+Tue, 10 May 2016 00:35:00 -0500
+README.rdoc	Mon, 09 May 2016 17:49:53 -0500
+app/controllers/application_controller.rb	Mon, 09 May 2016 17:49:53 -0500
+app/controllers/welcome_controller.rb	Tue, 10 May 2016 00:33:56 -0500
+app/helpers/application_helper.rb	Mon, 09 May 2016 17:49:53 -0500
+app/helpers/welcome_helper.rb	Mon, 09 May 2016 17:54:04 -0500
