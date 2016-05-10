@@ -1,2 +1,8 @@
-<h1>Welcome#places</h1>
-<p>Find me in app/views/welcome/places.html.erb</p>
+<h1>Explore</h1>
+
+<ul>
+  <% @restaurants.each do |place, info| %>
+    <li><h2><%= place %></h2></li>
+    <p><%= info %></p>
+    <% end %>
+</ul>
